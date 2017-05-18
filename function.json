@@ -1,7 +1,7 @@
 {
   "bindings": [
     {
-      "name": "emails-to-send",
+      "name": "emailstosend",
       "type": "queueTrigger",
       "direction": "in",
       "queueName": "emails-to-send",
